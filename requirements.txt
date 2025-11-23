@@ -1,0 +1,8 @@
+prophet
+cmdstanpy
+pandas
+numpy
+scikit-learn
+matplotlib
+tensorflow
+tqdm
